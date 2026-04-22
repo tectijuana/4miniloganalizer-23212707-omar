@@ -213,3 +213,8 @@ A través de esta práctica, se comprendió cómo un problema de análisis de da
 ## Autorreflexión
 
 Durante el desarrollo de esta variante, identifiqué la importancia de comprender la estructura de los datos de entrada; por ejemplo, la gestión del salto de línea (\n) al leer bytes desde stdin. Inicialmente, la transición de un entorno local a una instancia de AWS requirió ajustar el flujo de trabajo de Git, optando por el uso de llaves SSH para una sincronización más fluida. Esta experiencia me permitió consolidar habilidades en la administración de servidores remotos y en la depuración de código ensamblador puro sin el soporte de funciones de alto nivel.
+
+### Evidencias
+
+Link de asciinema: <https://asciinema.org/a/1eYLKUy4P9xqYvoG>
+
