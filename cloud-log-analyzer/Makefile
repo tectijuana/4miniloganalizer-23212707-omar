@@ -1,5 +1,15 @@
-# Makefile de la práctica Mini Cloud Log Analyzer
-# Comentarios en español para facilitar la comprensión a estudiantes principiantes.
+# 🌴🌞 ¡Hola desde la Isla del ITT! 🍹🌊
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Autor: Omar Gonzalez Cristóbal                                                         |
+# | • Materia: Lenguajes de Interfaz                                                         |
+# | • Grupo: SC6A                                                                            |
+# | • Fecha: 2026/04/22                                                                      |
+# | • Arquitectura: ARM64 (AArch64) en AWS Ubuntu 24                                         |
+# | • Descripción: Makefile para el Mini Cloud Log Analyzer.                                 |
+# |   Automatiza la compilación, ejecución y limpieza del proyecto.                          |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+# 🌺🏖️ ¡Código playero activado! 🏖️🌺
+# ════════•°• Ubuntu + Github para clima perfecto •°•════════
 
 PROJECT := analyzer
 SRC := src/analyzer.s
